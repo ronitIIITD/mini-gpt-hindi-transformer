@@ -203,19 +203,3 @@ classification_predictions.txt
 - Matplotlib
 
 ---
-
-## Deliverables
-
-- Complete implementation code
-- Trained language model weights
-- Trained classifier weights
-- Generated Hindi text samples
-- Classification prediction outputs
-
----
-
-## Team Members
-
-- Ujjwal 
-- Rishi
-- Praveer
